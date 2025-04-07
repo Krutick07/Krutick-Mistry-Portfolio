@@ -109,7 +109,7 @@ export const Contact = () => {
               <input
                 type="hidden"
                 name="_next"
-                value="http://localhost:5173/#"
+                value="https://krutick-mistry-portfolio.vercel.app/"
               />
 
               <div>
