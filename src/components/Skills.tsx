@@ -144,7 +144,6 @@ export const Skills = () => {
             </AnimatedSection>
           ))}
         </div>
-
       </div>
     </section>
   );
