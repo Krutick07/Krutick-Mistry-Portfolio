@@ -33,9 +33,11 @@ const skillCategories = [
     skills: [
       'VS Code',
       'Eclipse',
+      'IntelliJ IDEA',
       'Postman',
       'Firebase',
-      'Vercel'
+      'Vercel',
+      'JasperReports'
     ]
   },
   {
@@ -44,7 +46,8 @@ const skillCategories = [
       'RESTful APIs',
       'JWT Authentication',
       'Cloudinary',
-      'JasperReports'
+      'Brevo (Email Service)',
+      'SMS Gateway'
     ]
   },
   // {

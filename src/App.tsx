@@ -86,7 +86,7 @@ function App() {
                   className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
                   aria-label="Toggle menu"
                 >
-                  {menuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+                  {menuOpen ? <X className="w-6 h-6 dark:text-white" /> : <Menu className="w-6 h-6 dark:text-white" />}
                 </button>
               </div>
             </div>

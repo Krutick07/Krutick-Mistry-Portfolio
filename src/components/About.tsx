@@ -26,7 +26,7 @@ export const About = () => {
         <div className="max-w-3xl mx-auto">
           <AnimatedSection>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
-            I’m a results-driven Full Stack Developer who enjoys transforming ideas into functional, elegant web applications.
+            I’m a results-driven Full Stack Developer who enjoys transforming ideas into functional, elegant web solutions.
             With a strong foundation in Java (Spring Boot) and Angular/React, I specialize in creating responsive interfaces and robust backend systems.
             I’m passionate about clean code, performance optimization, and delivering solutions that enhance user experience.
             </p>

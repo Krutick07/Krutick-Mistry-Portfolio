@@ -11,14 +11,14 @@ const experiences = [
   // },
   {
     title: 'Full stack Developer',
-    company: 'Kevalam Solutions',
-    period: 'Currently',
+    company: 'Kevalam Solutions llp',
+    period: '01 Jan, 2025 - Currently',
     description: 'Developed and maintained modules for a custom ERP system using Angular and Spring Boot. Implemented RESTful APIs and integrated them with dynamic frontend components for real-time data handling. Designed and optimized SQL queries for smooth data operations and reporting.Worked on features like pagination, filtering, and Excel export for improved usability. Collaborated with team members using Git for version control and followed Agile development practices.'
   },
   {
     title: 'Frontend Developer',
     company: 'EVITAERC',
-    period: '01 Sep, 2024 - 31 Jan, 2025',
+    period: '01 Sep, 2024 - 31 Dec, 2024',
     description: 'Developed CVReformatter, a responsive web app for automated resume formatting.Designed reusable UI components with React.js and ensured cross-device compatibility.Improved performance and maintainability with clean architecture and state management.'
   },
 ];

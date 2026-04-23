@@ -44,7 +44,7 @@ export const Hero = () => {
               smooth={true}
               duration={600}
               offset={-80}
-              className="px-6 py-3 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors cursor-pointer"
+              className="px-6 py-3 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors cursor-pointer whitespace-nowrap"
             >
               Hire Me
             </ScrollLink>
@@ -52,7 +52,7 @@ export const Hero = () => {
             <a
               href={resumepdf}
               download="Krutick_Mistry_Resume.pdf"
-              className="px-6 py-3 border border-gray-300 dark:border-gray-700 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors inline-flex items-center gap-2"
+              className="px-6 py-3 border border-gray-300 dark:border-gray-700 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors inline-flex items-center gap-2 whitespace-nowrap"
             >
               <Download className="w-5 h-5" />
               Download Resume
