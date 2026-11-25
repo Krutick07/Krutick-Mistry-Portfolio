@@ -1,7 +1,7 @@
 import React from 'react';
 import { Github, Download } from 'lucide-react';
 import { motion } from 'framer-motion';
-import profile from '../components/assets/krutickProfile.jpg'
+import profile from '../components/assets/krutickProfile.png'
 import { Link as ScrollLink } from 'react-scroll';
 import resumepdf from '../components/assets/Krutick Mistry.pdf'
 

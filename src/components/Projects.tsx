@@ -18,7 +18,7 @@ const projects = [
     image: otlo,
     tech: ["Angular ", " Spring Boot ", "MySQL", "JWT ", "Tailwind CSS"],
     github: "#",
-    demo: "http://otlouser.kevalam.info/",
+    // demo: "http://otlouser.kevalam.info/",
   },
   {
     title: "Cultiva Jewels E-commerce & ERP System",

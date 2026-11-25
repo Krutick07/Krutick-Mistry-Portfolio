@@ -3,12 +3,12 @@ import { AnimatedSection } from './AnimatedSection';
 import { motion } from 'framer-motion';
 
 const experiences = [
-  // {
-  //   title: 'Senior Frontend Developer',
-  //   company: 'Tech Solutions Inc.',
-  //   period: '2021 - Present',
-  //   description: 'Lead frontend development for enterprise applications, mentored junior developers, and implemented modern CI/CD practices.'
-  // },
+  {
+    title: 'Java Backend Developer',
+    company: 'LogWintech Pvt. Ltd.',
+    period: '01 Aug, 2026 - 30 Sep, 2026',
+    description: 'Developed backend applications using Java, Spring Boot, and MySQL following RESTful architecture. Designed and implemented REST APIs for frontend integration and performed database operations and CRUD functionality using Spring Data JPA/Hibernate.'
+  },
   {
     title: 'Full stack Developer',
     company: 'Kevalam Solutions llp',
